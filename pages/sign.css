@@ -1,0 +1,133 @@
+.sign-in{
+background-image: url(../image/rDJegQJaCyGaYysj2g5XWY.jpg);
+height: 150vh;
+background-size: cover;
+font-family: sans-serif;
+}
+.logo1 img{
+    height: 90px;
+    width: 200px;
+}
+.main-signin{
+    height: 80vh;
+    width: 30vw;
+    background-color: rgb(52, 48, 48,0.75);
+    color: white;
+    margin-top: 10px;
+    margin-left: 400px;
+    padding: 30px;
+
+}
+.heading{
+    padding: 20px;
+
+}
+button{
+    width: 78%;
+    height: 10%;
+    background-color: red;
+    margin-left: 17px;
+    color: white;
+    font-weight: 800;
+    font-size: 17px;
+
+}
+.two-section{
+    display: flex;
+    justify-content: space-around;
+    font-size: 14px;
+}
+.input-type-rememberme{
+    position: relative;
+    margin-left: -45px;
+}
+.email{
+    width: 78%;
+    height: 8%;
+    background-color: rgb(52, 48, 48,0.75);
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+.password{
+    width: 78%;
+    height: 8%;
+    background-color: rgb(52, 48, 48,0.75);
+    margin-bottom: 10px;
+    margin-left: 15px;
+    padding: 5px; 
+    border-radius: 5px;
+}
+.para{
+    margin-top: -19px;
+    margin-left: 110px;
+}
+.para:hover{
+    text-decoration: underline;
+}
+.sign-last-netflix{
+    display: flex;
+    margin-left: 50px;
+    font-size: 18px;
+}
+.signin-frd{
+    margin-left: 50px;
+}
+.new-netflix{
+    color: rgb(182, 169, 169);
+}
+.signin-frd{
+    color: rgb(137, 133, 133);
+}
+.footer-section{
+    height: 40vh;
+    width: 97.7vw;
+    background-color: rgba(52, 48, 48,0.75);
+    color: rgb(137, 133, 133);
+}
+.last-section{
+justify-content: space-around;
+ display: flex;
+}
+ul:hover{
+    text-decoration: underline;
+}
+.signup{
+    color: white;
+    text-decoration: none;
+}
+.signup:hover{
+    text-decoration: underline;
+}
+.learnmore{
+    color: rgb(0, 115, 225);
+    text-decoration: none;
+}
+.learnmore:hover{
+    text-decoration: underline;
+}
+.number{
+    color: rgb(137, 133, 133);
+    text-decoration: none;
+}
+.number:hover{
+    color: rgb(137, 133, 133);
+    text-decoration: underline; 
+}
+.second-list{
+    margin-top: 80px;
+}
+.third-list{
+    margin-top: 80px;
+}
+.forth-list{
+    margin-top: 80px;
+}
+.footer{
+    margin-left: 10%;
+}
+.footer select{
+    width: 8rem;
+    background-color: rgb(12, 12, 12);
+    color: white !important;
+    height: 40px;
+}
